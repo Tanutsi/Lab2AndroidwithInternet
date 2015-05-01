@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Find" type="id" />
+    <item name="CityText" type="id" />
+    <item name="PressureText" type="id" />
+    <item name="HumidityText" type="id" />
+</resources>
